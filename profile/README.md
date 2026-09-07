@@ -1,29 +1,25 @@
-# IABSD - The AI-enhanced BSD.
+# IABSD.fr
 
-IA (Intelligence Artificielle)
-BSD (Berkeley Software Distribution)
+## IABSD.fr is a fork of OpenBSD 8.0-beta that supports the same features as OpenBSD but with AI-enhanced patches for *ext4fs* and *bluetooth* accepted.
 
-OpenBSD refuses patches from AI-generated code on a legal basis : no
-AI-produced code can be copyrighted by a human. Except in France,
-where we don't forbid anything unless stated so. So in-between the
-public ban of all AI in France, here is IABSD.fr !
+<img alt="IABSD.fr 1er Avril" src="https://www.iabsd.fr/static/_images/iabsd.fr.1080.jpg" style="width:100%"/>
 
+## Resources
+ - Main website : <https://www.iabsd.fr>
+ - Main git repository : <https://git.kmx.io/IABSD.fr>
+ - Github : <https://github.com/IABSD-fr>
 
-## Official sources
+### Mirrors
 
-### Public website
+#### HTTP mirrors
+ - <https://ftp.iabsd.fr/pub/IABSD>
+ - <https://ftp.fr.kmx.io/pub/IABSD>
 
- - <https://www.iabsd.fr/>
+#### Rsync mirrors
+ - rsync://ftp.iabsd.fr/IABSD
 
-### Mailing lists
+## External resources
 
- - Coming soon.
-
-
-## Other resources
-
- - <https://www.openbsd.org/>
-
----
-
-Copyright 2026 kmx.io
+ - OpenBSD : <https://www.openbsd.org/>
+ - FreeBSD : <https://www.freebsd.org/>
+ - NetBSD : <https://www.netbsd.org/>
